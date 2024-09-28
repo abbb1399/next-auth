@@ -17,7 +17,7 @@ model User {
   password      String?
   accounts      Account[]
 
-   @@map("users")
+  @@map("users")
 }
  
  model Account {
@@ -37,5 +37,5 @@ model User {
   user User @relation(fields: [userId], references: [id], onDelete: Cascade)
  
   @@unique([provider, providerAccountId])
-   @@map("accounts")
+  @@map("accounts")
 }
