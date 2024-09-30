@@ -16,10 +16,11 @@ export const authRoutes: string[] = [
   "/auth/login",
   "/auth/register",
   "/auth/error",
+  "/auth/reset",
 ];
 
 /**
- * The prefic for API authenticaion routes
+ * The prefix for API authenticaion routes
  * Routes that starts with this prefix are used for API authentication purposes
  * @type {string}
  */
