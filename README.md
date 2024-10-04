@@ -2,7 +2,7 @@ Next.js, Auth.js, Prisma, shadcn/ui, resend로 만든 로그인/회원가입 인
  
 ## 기능
 
-로그인/회원가입, OAuth, 메일 전송, 이메일 인증, 2FA 인증. 
+로그인/회원가입, OAuth, 메일 전송, 이메일 인증, 2FA 인증.
 
 ## TODO
 
