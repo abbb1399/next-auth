@@ -4,7 +4,6 @@ Next.js, Auth.js, Prisma, shadcn/ui, resend로 만든 로그인/회원가입 인
 
 로그인/회원가입, OAuth, 메일 전송, 이메일 인증, 2FA 인증. 
 
-
 ## TODO
 
 - 배포한 사이트 OAuth url 변경 하기
